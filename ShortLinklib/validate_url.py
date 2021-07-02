@@ -16,7 +16,7 @@ import validators
 
 
 def url_validate(url):
-    isValid = validators.url("https://codevscolor.com")
+    isValid = validators.url(url)
     if isValid == True:
         return True
     else:
