@@ -31,11 +31,10 @@ setup(
     description='Python library that act as a stand alone link shorten utility.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://aa-5.github.io/ShortLink',
+    url='https://aerocyber.github.io/ShortLink',
     author='Aditya Ajay',
     author_email='adityaajay574@gmail.com',
     classifiers=[ 
-        'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: Apache License v2',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
@@ -49,8 +48,8 @@ setup(
     python_requires='>=3.6, <4',
     install_requires=['validators'],
 
-    project_urls={  # Optional
-        'Bug Reports': 'https://github.com/aa-5/ShortLink/issues',
-        'Source': 'https://github.com/aa-5/ShortLink',
+    project_urls={ 
+        'Bug Reports': 'https://github.com/aerocyber/ShortLink/issues',
+        'Source': 'https://github.com/aerocyber/ShortLink',
     },
 )
