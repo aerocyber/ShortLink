@@ -16,7 +16,7 @@ Note:
 - del_entry, mod_name, mod_url, new_entry, open_in_browser, os, read_, return_url, save_  and url_validate are classes.
 
 ## To-Do
-===========
+
 
 - [ ] Documentation.
 - [ ] Update website.
