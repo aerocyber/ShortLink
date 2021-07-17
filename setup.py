@@ -44,7 +44,7 @@ setup(
         'Programming Language :: Python :: 3 :: Only',
     ],
     package_dir={'': 'ShortLinklib'},  
-    packages=find_packages(where='ShortLinklib'), 
+    packages=find_packages(where='ShortLink'), 
     python_requires='>=3.6, <4',
     install_requires=['validators'],
 
