@@ -54,6 +54,9 @@ def open_in_browser(url : str):
 
     Args:
         url (string): URL to be opened
+    
+    Raises:
+        NorURLError: If the url is NOT a url.
     """
     val = url_validate(url)
     if val == True:
@@ -92,7 +95,7 @@ def read_(db_path):
         FileNotFoundError: If file is not found.
 
     Returns:
-        [type]: Associated data.
+        dict: Associated data.
     """
     exist = os.path.exists(db_path) # Check for existance.
     if exist == True:
@@ -216,3 +219,7 @@ def mod_name(name, url, db, db_path, name_old, auto_save=True):
     if auto_save == True:
         save_(db_path=db_path)
     return db
+
+if __name__ == '__main__':
+    print("NOT to be executed directly!!! Use from a script. Refer https://aerocyber.github.com/ShortLink/docs/ for Documentation and details.")
+    

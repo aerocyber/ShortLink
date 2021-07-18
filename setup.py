@@ -26,12 +26,12 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
 
-    name='ShortLinklib',
+    name='ShortLink',
     version='0.1.0',
     description='Python library that act as a stand alone link shorten utility.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://aerocyber.github.io/ShortLink',
+    url='https://github.com/aerocyber/ShortLink',
     author='Aditya Ajay',
     author_email='adityaajay574@gmail.com',
     classifiers=[ 
@@ -43,7 +43,7 @@ setup(
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3 :: Only',
     ],
-    package_dir={'': 'ShortLinklib'},  
+    package_dir={'': 'ShortLink'},  
     packages=find_packages(where='ShortLink'), 
     python_requires='>=3.6, <4',
     install_requires=['validators'],
