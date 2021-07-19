@@ -1,6 +1,6 @@
 # ShortLink
 
-SortLink is a [python3](https://python.org) library which can be used to create URL shorteners. It is the main library which **WILL** be used in [Webinatio](https://github.com/astrocyber/Webinatio).
+SortLink is a [python3](https://python.org) library which can be used to create URL shorteners. 
 
 ## How to use?
 
@@ -15,7 +15,7 @@ Shortlink.function_name.__doc__ # function_name is one of:
 Note:
 
 - EntryExistsError and NotURLError are Exceptions.
-- del_entry, mod_name, mod_url, new_entry, open_in_browser, os, read_, return_url, save_  and url_validate are classes.
+- del_entry, mod_name, mod_url, new_entry, open_in_browser, os, read_, return_url, save_  and url_validate are functions.
 
 ## To-Do
 
@@ -31,9 +31,9 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    ```http
+
     
-    ```http://www.apache.org/licenses/LICENSE-2.0
+        http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
