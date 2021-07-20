@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "shortlink"
-version = "0.1.5"
+version = "0.1.6"
 description = "A url shortener maker."
 authors = ["AA."]
 license = "Apache-2.0"
