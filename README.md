@@ -4,18 +4,7 @@ SortLink is a [python3](https://python.org) library which can be used to create 
 
 ## How to use?
 
-😄 Documentation is on the way. If you want to know so badly, the codes are documented. Documentation can be accessed by:
-
-```bash
-import ShortLink # ShortLink is ShortLink.py file!
-Shortlink.function_name.__doc__ # function_name is one of:
-# EntryExistsError, NotURLError, del_entry, mod_name, mod_url, new_entry, open_in_browser, os, read_, return_url, save_ ,url_validate
-```
-
-Note:
-
-- EntryExistsError and NotURLError are Exceptions.
-- del_entry, mod_name, mod_url, new_entry, open_in_browser, os, read_, return_url, save_  and url_validate are functions.
+See: [https://aerocyber.github.io/ShortLink/docs/](https://aerocyber.github.io/ShortLink/docs/).
 
 ## To-Do
 
