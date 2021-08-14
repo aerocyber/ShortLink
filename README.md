@@ -1,6 +1,6 @@
 # ShortLink
 
-SortLink is a [python3](https://python.org) library which can be used to create URL shorteners. 
+ShortLink is a [python3](https://python.org) library which can be used to create URL shorteners. 
 
 ## How to use?
 
