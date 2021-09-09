@@ -6,12 +6,6 @@ ShortLink is a [python3](https://python.org) library which can be used to create
 
 See: [https://aerocyber.github.io/ShortLink/docs/](https://aerocyber.github.io/ShortLink/docs/).
 
-## To-Do
-
-- [x] Documentation.
-- [x] Update website.
-- [x] Release!
-
 ## LICENSE
 
 Copyright 2021 AA.
