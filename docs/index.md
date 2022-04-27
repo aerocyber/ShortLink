@@ -15,15 +15,7 @@ ShortLink library maps a `name` (nickname) to a `url`. This 'map' is then saved 
 - Python version > 3.6
 - validators python library (Automatically installed.)
 
-### Approach 1: From PyPI (Recommended)
-
-On your terminal,
-
-```bash
-pip install shortlink
-```
-
-### Approach 2: Development build from Github
+### Development build from Github
 
 On your terminal,
 
