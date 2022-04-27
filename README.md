@@ -2,6 +2,8 @@
 
 ShortLink is a [python3](https://python.org) library which can be used to create URL shorteners. 
 
+## ⚠️ UNMAINTAINED ⚠️
+
 ## How to use?
 
 See: [https://aerocyber.github.io/ShortLink/docs/](https://aerocyber.github.io/ShortLink/docs/).
